@@ -1,7 +1,5 @@
-public class Add {
-    public static void main(String[] args) {
-        int a = 8;
-        int b = 9;
-        System.out.println(a + b);
+class Add{
+    public int add(int a,int b){
+        return a+b;
     }
 }
